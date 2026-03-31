@@ -1,6 +1,6 @@
 # CSE0001_Digital_Literacy_Project
 
-Digital Literacy Project
+## Digital Literacy Project
 
 This project is part of the Digital Literacy course. It focuses on understanding digital tools, online communication, and cyber safety through practical tasks.
 
